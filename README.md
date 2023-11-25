@@ -1,6 +1,6 @@
 <h3 width="100%"> Hi, I am ByKittY </h3>
 
-<h2 width="100%"><img width="25" src="" /> Github Stats </h2>
+<h2 width="100%"> Technologies i use </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,php,nodejs,blender,discord)](https://skillicons.dev)
 <h2 width="100%"> My Github Stats </h2>
