@@ -1,0 +1,13 @@
+<h3 width="100%"><img width="25" src="" /> Hi, I am bykitty </h3>
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ByK1ttY/ByK1ttY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<h2 width="100%"><img width="25" src="" /> Github Stats </h2>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ewriq&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8)
